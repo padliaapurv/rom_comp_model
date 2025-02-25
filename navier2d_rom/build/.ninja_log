@@ -1,0 +1,26 @@
+# ninja log v5
+41	809	1740470691994773400	CMakeFiles/navier2d_rom_exe.dir/src/Config.cpp.o	37f669cf49dd15d6
+45	2408	1740470693764591000	CMakeFiles/navier2d_rom_exe.dir/src/OfflineSolver2D.cpp.o	d995a9bc4c95c13c
+51	2459	1740470693777158900	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+43	2952	1740470694300346400	CMakeFiles/navier2d_rom_exe.dir/src/GalerkinROM.cpp.o	6b87f29327d81261
+49	7175	1740470698518264100	CMakeFiles/navier2d_rom_exe.dir/src/POD.cpp.o	5dae41308b07376f
+70	1592	1740470842844252200	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+68	1904	1740470843159453700	CMakeFiles/navier2d_rom_exe.dir/src/OnlineSolver2D.cpp.o	503478f1673ea549
+59	1506	1740470916996679600	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+57	1830	1740470917315419700	CMakeFiles/navier2d_rom_exe.dir/src/OnlineSolver2D.cpp.o	503478f1673ea549
+57	1446	1740470949020753100	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+54	1738	1740470949308231500	CMakeFiles/navier2d_rom_exe.dir/src/GalerkinROM.cpp.o	6b87f29327d81261
+62	1229	1740471085532631400	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+61	1514	1740471085816403000	CMakeFiles/navier2d_rom_exe.dir/src/OnlineSolver2D.cpp.o	503478f1673ea549
+49	1266	1740471184100112200	CMakeFiles/navier2d_rom_exe.dir/src/OnlineSolver2D.cpp.o	503478f1673ea549
+1274	1589	1740471184423583000	navier2d_rom_exe	206ffed55540d1c3
+54	1009	1740471233806549300	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+1016	1304	1740471234094920000	navier2d_rom_exe	206ffed55540d1c3
+56	2033	1740471471387805900	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+2043	2445	1740471471811113100	navier2d_rom_exe	206ffed55540d1c3
+53	777	1740471535529867100	CMakeFiles/navier2d_rom_exe.dir/src/Config.cpp.o	37f669cf49dd15d6
+783	1084	1740471535842412200	navier2d_rom_exe	206ffed55540d1c3
+52	1348	1740471582587455900	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+1356	1653	1740471582894280600	navier2d_rom_exe	206ffed55540d1c3
+54	1111	1740471611466289000	CMakeFiles/navier2d_rom_exe.dir/src/main.cpp.o	3aa467066438b829
+1116	1405	1740471611752641400	navier2d_rom_exe	206ffed55540d1c3

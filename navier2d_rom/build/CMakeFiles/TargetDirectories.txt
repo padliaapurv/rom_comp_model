@@ -1,0 +1,3 @@
+/mnt/c/Users/padli/Downloads/pbpp/rom_comp_model/navier2d_rom/build/CMakeFiles/navier2d_rom_exe.dir
+/mnt/c/Users/padli/Downloads/pbpp/rom_comp_model/navier2d_rom/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/padli/Downloads/pbpp/rom_comp_model/navier2d_rom/build/CMakeFiles/rebuild_cache.dir
